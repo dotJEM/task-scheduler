@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DotJEM.Scheduler")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Extracted scheduler from webhost")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("N/A")]
 [assembly: AssemblyProduct("DotJEM.Scheduler")]
