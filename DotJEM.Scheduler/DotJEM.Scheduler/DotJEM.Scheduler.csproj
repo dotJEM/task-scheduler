@@ -55,6 +55,7 @@
     <Compile Include="ThreadPoolProxy.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="DotJEM.Scheduler.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
