@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>jeme</authors>
+    <owners>jeme</owners>
+    <licenseUrl>https://github.com/dotJEM/task-scheduler/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/dotJEM/task-scheduler</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>https://github.com/dotJEM/task-scheduler/releases</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Scheduler Task Cron</tags>
+  </metadata>
+</package>
