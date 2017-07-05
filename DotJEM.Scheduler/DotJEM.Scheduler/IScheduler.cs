@@ -51,7 +51,7 @@ namespace DotJEM.Scheduler
         void Stop();
     }
 
-    public class Scheduler : IScheduler
+    public class StandardScheduler : IScheduler
     {
         private readonly ConcurrentDictionary<Guid, IScheduledTask> tasks = new ConcurrentDictionary<Guid, IScheduledTask>();
 
