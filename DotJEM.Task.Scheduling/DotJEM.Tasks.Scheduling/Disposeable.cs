@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotJEM.Task.Scheduling
+namespace DotJEM.Tasks.Scheduling
 {
     public abstract class Disposeable : IDisposable
     {

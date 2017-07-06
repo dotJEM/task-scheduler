@@ -1,6 +1,6 @@
 using System;
 
-namespace DotJEM.Task.Scheduling.Tasks
+namespace DotJEM.Tasks.Scheduling.Tasks
 {
     public class PeriodicScheduledTask : ScheduledTask
     {

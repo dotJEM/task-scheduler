@@ -1,7 +1,7 @@
 using System;
 using NCrontab;
 
-namespace DotJEM.Task.Scheduling.Tasks
+namespace DotJEM.Tasks.Scheduling.Tasks
 {
     public class CronScheduledTask : ScheduledTask
     {

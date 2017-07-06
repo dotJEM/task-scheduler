@@ -3,7 +3,7 @@ using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Security.Cryptography;
 
-namespace DotJEM.Task.Scheduling
+namespace DotJEM.Tasks.Scheduling
 {
     //TODO: ?
     public static class Correlator

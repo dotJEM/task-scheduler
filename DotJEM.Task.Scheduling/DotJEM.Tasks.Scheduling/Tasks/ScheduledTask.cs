@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace DotJEM.Task.Scheduling.Tasks
+namespace DotJEM.Tasks.Scheduling.Tasks
 {
     public abstract class ScheduledTask : Disposeable, IScheduledTask
     {
