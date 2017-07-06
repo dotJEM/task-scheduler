@@ -1,6 +1,6 @@
 using System;
 
-namespace DotJEM.Scheduler.Tasks
+namespace DotJEM.Task.Scheduling.Tasks
 {
     public interface IScheduledTask : IDisposable
     {

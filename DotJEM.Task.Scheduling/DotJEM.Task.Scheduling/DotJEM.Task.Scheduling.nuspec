@@ -6,12 +6,12 @@
     <title>$title$</title>
     <authors>jeme</authors>
     <owners>jeme</owners>
-    <licenseUrl>https://github.com/dotJEM/task-scheduler/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/dotJEM/task-scheduler</projectUrl>
+    <licenseUrl>https://github.com/dotJEM/task-scheduling/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/dotJEM/task-scheduling</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>https://github.com/dotJEM/task-scheduler/releases</releaseNotes>
-    <copyright>Copyright 2017</copyright>
+    <releaseNotes>https://github.com/dotJEM/task-scheduling/releases</releaseNotes>
+    <copyright>Copyright © Jens Melgaard 2017</copyright>
     <tags>Scheduler Task Cron</tags>
   </metadata>
 </package>

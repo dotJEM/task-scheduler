@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DotJEM.Scheduler")]
+[assembly: AssemblyTitle("DotJEM.Task.Scheduling")]
 [assembly: AssemblyDescription("Extracted scheduler from webhost")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("N/A")]
-[assembly: AssemblyProduct("DotJEM.Scheduler")]
-[assembly: AssemblyCopyright("Copyright © DotJEM 2017")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("DotJEM.Task.Scheduling")]
+[assembly: AssemblyCopyright("Copyright © Jens Melgaard 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2d112428-0d4e-4c94-bc57-00c8392a8eca")]
+[assembly: Guid("6fc7e52a-7b20-4f44-8eb6-9d5d49ac63b2")]
 
 // Version information for an assembly consists of the following four values:
 //

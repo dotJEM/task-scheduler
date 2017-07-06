@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Concurrent;
-using DotJEM.Scheduler.Tasks;
+using DotJEM.Task.Scheduling.Tasks;
 
-namespace DotJEM.Scheduler
+namespace DotJEM.Task.Scheduling
 {
     /* inspiration from hangfire API: https://www.hangfire.io/
      * 

@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace DotJEM.Scheduler
+namespace DotJEM.Task.Scheduling
 {
     /// <summary>
     /// Interface and implementation for enabling mocking.

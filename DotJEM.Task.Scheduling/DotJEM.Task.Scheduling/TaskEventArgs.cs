@@ -1,7 +1,7 @@
 using System;
-using DotJEM.Scheduler.Tasks;
+using DotJEM.Task.Scheduling.Tasks;
 
-namespace DotJEM.Scheduler
+namespace DotJEM.Task.Scheduling
 {
     public class TaskEventArgs : EventArgs
     {
