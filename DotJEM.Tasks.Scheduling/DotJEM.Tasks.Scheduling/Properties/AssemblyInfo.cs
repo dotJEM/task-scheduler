@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DotJEM.Task.Scheduling")]
+[assembly: AssemblyTitle("DotJEM.Tasks.Scheduling")]
 [assembly: AssemblyDescription("Extracted scheduler from webhost")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DotJEM.Task.Scheduling")]
+[assembly: AssemblyCompany("N/A")]
+[assembly: AssemblyProduct("DotJEM.Tasks.Scheduling")]
 [assembly: AssemblyCopyright("Copyright © Jens Melgaard 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
