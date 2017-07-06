@@ -28,7 +28,7 @@ before_build:
   nuget restore DotJEM.Tasks.Scheduling\DotJEM.Tasks.Scheduling.sln
 
 build:
-  project: DotJEM.Taskss.Scheduling\DotJEM.Tasks.Scheduling.sln
+  project: DotJEM.Tasks.Scheduling\DotJEM.Tasks.Scheduling.sln
   publish_nuget: true
   publish_nuget_symbols: true
 
