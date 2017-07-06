@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotJEM.Task.Scheduling", "DotJEM.Task.Scheduling\DotJEM.Task.Scheduling.csproj", "{6FC7E52A-7B20-4F44-8EB6-9D5D49AC63B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotJEM.Tasks.Scheduling", "DotJEM.Tasks.Scheduling\DotJEM.Tasks.Scheduling.csproj", "{6FC7E52A-7B20-4F44-8EB6-9D5D49AC63B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BC81D6D-F36C-4407-896A-6F52D6F1EF5D}"
 	ProjectSection(SolutionItems) = preProject

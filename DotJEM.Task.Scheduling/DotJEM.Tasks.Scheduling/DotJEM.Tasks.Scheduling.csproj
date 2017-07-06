@@ -7,8 +7,8 @@
     <ProjectGuid>{6FC7E52A-7B20-4F44-8EB6-9D5D49AC63B2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DotJEM.Task.Scheduling</RootNamespace>
-    <AssemblyName>DotJEM.Task.Scheduling</AssemblyName>
+    <RootNamespace>DotJEM.Tasks.Scheduling</RootNamespace>
+    <AssemblyName>DotJEM.Tasks.Scheduling</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -56,7 +56,9 @@
     <Compile Include="ThreadPoolProxy.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="DotJEM.Task.Scheduling.nuspec" />
+    <None Include="DotJEM.Task.Scheduling.nuspec">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
